@@ -1,5 +1,5 @@
 # iRuda-BOT-issues
-Report issues of iRuda BOT
+Report issues from iRuda BOT
 
 [#] If you want to view form of the issue report, read report-form.   
 [#] You can report the issue at "Issues".   
